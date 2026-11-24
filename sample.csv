@@ -1,0 +1,10 @@
+workstation,program,publisher,impact,enabled
+WS-01,OneDrive,Microsoft,low,yes
+WS-01,SpeedBooster Pro,UnknownSoft,high,yes
+WS-01,Adobe Creative Cloud,Adobe,medium,yes
+WS-02,Zoom,Zoom,low,yes
+WS-02,CryptoMiner Helper,UnknownSoft,high,yes
+WS-02,OldToolbar,UnknownSoft,low,no
+WS-03,Teams,Microsoft,medium,yes
+WS-03,HP Support Assistant,HP,high,yes
+WS-03,Skype,Microsoft,low,no
